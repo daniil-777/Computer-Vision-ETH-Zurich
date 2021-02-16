@@ -1,0 +1,1 @@
+This repository contains small projects done during ETH Zurich course "Computer Vision"
